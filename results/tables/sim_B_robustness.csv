@@ -1,0 +1,43 @@
+seed,frac_wrong,method,median_r
+0,0.0,Pathway VAE (this repo),0.9805002212524414
+0,0.0,Gene set score,0.930610716342926
+0,0.1,Pathway VAE (this repo),0.9771373867988586
+0,0.1,Gene set score,0.9151695966720581
+0,0.2,Pathway VAE (this repo),0.964712381362915
+0,0.2,Gene set score,0.8928848505020142
+0,0.3,Pathway VAE (this repo),0.9682608246803284
+0,0.3,Gene set score,0.8659945726394653
+0,0.4,Pathway VAE (this repo),0.9334170818328857
+0,0.4,Gene set score,0.8292253017425537
+0,0.5,Pathway VAE (this repo),0.924916684627533
+0,0.5,Gene set score,0.7627338767051697
+0,0.6,Pathway VAE (this repo),0.8198456764221191
+0,0.6,Gene set score,0.678382158279419
+1,0.0,Pathway VAE (this repo),0.9800679087638855
+1,0.0,Gene set score,0.9281871318817139
+1,0.1,Pathway VAE (this repo),0.9732747077941895
+1,0.1,Gene set score,0.9150848388671875
+1,0.2,Pathway VAE (this repo),0.9673928022384644
+1,0.2,Gene set score,0.8938837051391602
+1,0.3,Pathway VAE (this repo),0.9566315412521362
+1,0.3,Gene set score,0.8634767532348633
+1,0.4,Pathway VAE (this repo),0.9445968866348267
+1,0.4,Gene set score,0.8149313926696777
+1,0.5,Pathway VAE (this repo),0.915708065032959
+1,0.5,Gene set score,0.7757254242897034
+1,0.6,Pathway VAE (this repo),0.8326109647750854
+1,0.6,Gene set score,0.6789729595184326
+2,0.0,Pathway VAE (this repo),0.9782544374465942
+2,0.0,Gene set score,0.9330846071243286
+2,0.1,Pathway VAE (this repo),0.9792063236236572
+2,0.1,Gene set score,0.9166820049285889
+2,0.2,Pathway VAE (this repo),0.9696323275566101
+2,0.2,Gene set score,0.8931911587715149
+2,0.3,Pathway VAE (this repo),0.9452781677246094
+2,0.3,Gene set score,0.8727710247039795
+2,0.4,Pathway VAE (this repo),0.9514243602752686
+2,0.4,Gene set score,0.8418667316436768
+2,0.5,Pathway VAE (this repo),0.8962834477424622
+2,0.5,Gene set score,0.7765109539031982
+2,0.6,Pathway VAE (this repo),0.858538031578064
+2,0.6,Gene set score,0.7131917476654053

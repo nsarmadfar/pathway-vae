@@ -1,0 +1,31 @@
+seed,shared_frac,method,median_r
+0,0.0,Pathway VAE (this repo),0.9798266887664795
+0,0.0,Gene set score,0.9415249228477478
+0,0.2,Pathway VAE (this repo),0.9736956357955933
+0,0.2,Gene set score,0.9389060139656067
+0,0.4,Pathway VAE (this repo),0.9806771278381348
+0,0.4,Gene set score,0.9210492372512817
+0,0.6,Pathway VAE (this repo),0.9726079106330872
+0,0.6,Gene set score,0.8545364141464233
+0,0.8,Pathway VAE (this repo),0.9558374881744385
+0,0.8,Gene set score,0.7234054803848267
+1,0.0,Pathway VAE (this repo),0.9803507328033447
+1,0.0,Gene set score,0.940199613571167
+1,0.2,Pathway VAE (this repo),0.9816447496414185
+1,0.2,Gene set score,0.9327616095542908
+1,0.4,Pathway VAE (this repo),0.9726750254631042
+1,0.4,Gene set score,0.9192637205123901
+1,0.6,Pathway VAE (this repo),0.9693158268928528
+1,0.6,Gene set score,0.8691521883010864
+1,0.8,Pathway VAE (this repo),0.953143835067749
+1,0.8,Gene set score,0.7621448636054993
+2,0.0,Pathway VAE (this repo),0.9839420318603516
+2,0.0,Gene set score,0.9507044553756714
+2,0.2,Pathway VAE (this repo),0.9803884029388428
+2,0.2,Gene set score,0.9415176510810852
+2,0.4,Pathway VAE (this repo),0.982795000076294
+2,0.4,Gene set score,0.9154690504074097
+2,0.6,Pathway VAE (this repo),0.9708456993103027
+2,0.6,Gene set score,0.871578574180603
+2,0.8,Pathway VAE (this repo),0.9628831148147583
+2,0.8,Gene set score,0.7612669467926025
