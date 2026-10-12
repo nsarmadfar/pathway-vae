@@ -1,4 +1,4 @@
-# pathway-vae: interpretable-by-design deep learning for single-cell RNA-seq
+# pathway-vae: a pathway-informed neural network for single-cell RNA-seq
 
 [![tests](https://github.com/nsarmadfar/pathway-vae/actions/workflows/tests.yml/badge.svg)](https://github.com/nsarmadfar/pathway-vae/actions/workflows/tests.yml)
 
@@ -24,7 +24,7 @@ directly as "how active is each programme in this cell", without any post hoc ex
 Most deep learning for single-cell data follows a "train a black box, explain it afterwards" recipe. That has two
 problems: post hoc explanations are not always possible or reliable, and the model has to rediscover well-known
 biology from scratch on every dataset. The alternative is to **build known biology into the architecture** so the
-model is interpretable by construction. This repository is a compact, tested implementation of that idea, in the
+model is easy to interpret from the start. This repository is a compact, tested implementation of that idea, in the
 spirit of VEGA (Seninge et al., 2021) and expiMap (Lotfollahi et al., 2023), together with in silico experiments
 that measure when it works and when it does not.
 

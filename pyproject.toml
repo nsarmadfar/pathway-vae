@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pathvae"
 version = "0.1.0"
-description = "Interpretable-by-design variational autoencoder for single-cell RNA-seq, primed with pathway gene sets"
+description = "Pathway-informed variational autoencoder for single-cell RNA-seq"
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
