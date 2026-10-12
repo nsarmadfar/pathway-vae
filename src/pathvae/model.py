@@ -6,7 +6,7 @@ knowledge (gene sets / pathways). Latent node k can therefore only reconstruct
 the genes of gene set k, which ties every latent dimension to a named biological
 programme: its value for a cell is that programme's inferred activity.
 
-This is interpretable by design: no post hoc attribution method is needed to
+Because of this, no separate explanation method is needed to
 read the latent space. The idea follows knowledge-primed models such as
 VEGA (Seninge et al., 2021) and expiMap (Lotfollahi et al., 2023), in a compact,
 self-contained implementation.

@@ -1,4 +1,4 @@
-"""pathvae: an interpretable-by-design VAE for single-cell data, primed with gene sets."""
+"""pathvae: a pathway-informed VAE for single-cell data, built from gene sets."""
 
 from .genesets import GeneSetMask, build_mask, read_gmt
 from .model import DenseVAE, PathwayVAE
